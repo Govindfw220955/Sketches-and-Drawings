@@ -2,7 +2,7 @@
 
 # Project Description
 About
-This is the basic use of sketchpy or turtle that can be use for created GUI images and Drawings.
+This is the basic use of sketchpy or turtle that can be use for created sketche images and Drawings.
 
 If you want to Play with these Sketches, clone it👉  https://github.com/Govindfw220955/Sketches-and-Drawings.git
 
