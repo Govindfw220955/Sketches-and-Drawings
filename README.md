@@ -1,12 +1,12 @@
-## Welcome to the Calendar with GUI
+## Welcome to the Project of Sketches and Drawing
 
 # Project Description
 About
 This is the basic use of sketchpy or turtle that can be use for created GUI images and Drawings.
 
-If you want to Play with this GUI clone it👉  https://github.com/Govindfw220955/Sketches-and-Drawings.git
+If you want to Play with these Sketches, clone it👉  https://github.com/Govindfw220955/Sketches-and-Drawings.git
 
-This is the Screenshot of the interface of this GUI Project.
+These are some Screenshots of the Sketches and Drawing Project.
 
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20193125.png" alt="Sketchpy" />
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20194629.png" alt="Sketchpy" />
