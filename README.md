@@ -11,15 +11,15 @@ This is the Screenshot of the interface of this GUI Project.
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20193125.png" alt="Sketchpy" />
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20194629.png" alt="Sketchpy" />
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20192956.png" alt="Sketchpy"  />
+<img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20203527.png" alt="Sketchpy"  />
+<img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20203328.png" alt="Sketchpy"  />
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20193332.png" alt="Turtle"  />
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20194822.png" alt="Sketchpy and Turtle"  />
-<img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20184016.png" alt="Calander-with-GUI"  />
 
 ## About Project 
-* This is very intresting project which you can design as you want.
-* In this Project you will see a Calender interface with Date, Month and Year selection tabs.
-* This GUI filled with some basic colors.
-* In this Calender you can also see the Selected date with the selected Date button.
+* This is very intresting project in which you can draw and desing as you want.
+* In this Project you will see different type of libraries and graphics.
+* This is the best way where you can create your own sketches without any barrier or AD.
 
 # Setup
 The project repository can be found in my GitHub link  or  just clone the project using this command.
