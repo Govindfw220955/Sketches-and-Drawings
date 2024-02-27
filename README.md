@@ -10,9 +10,9 @@ This is the Screenshot of the interface of this GUI Project.
 
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20193125.png" alt="Sketchpy" />
 <img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20194629.png" alt="Sketchpy" />
-<img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20184016.png" alt="Sketchpy"  />
-<img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20184016.png" alt="Calander-with-GUI"  />
-<img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20184016.png" alt="Calander-with-GUI"  />
+<img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20192956.png" alt="Sketchpy"  />
+<img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20193332.png" alt="Turtle"  />
+<img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20194822.png" alt="Sketchpy and Turtle"  />
 <img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20184016.png" alt="Calander-with-GUI"  />
 
 ## About Project 
@@ -23,7 +23,7 @@ This is the Screenshot of the interface of this GUI Project.
 
 # Setup
 The project repository can be found in my GitHub link  or  just clone the project using this command.
-<img align="center" src="https://github.com/Govindfw220955/Calander-with-GUI/blob/main/Screenshot%202024-02-27%20200232.png" />
+<img align="center" src="https://github.com/Govindfw220955/Sketches-and-Drawings/blob/main/Screenshot%202024-02-27%20201622.png" />
 
 # Tool Used 
 Visual Studion Code
